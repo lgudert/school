@@ -1,0 +1,40 @@
+/*style.css*/
+/*colors*/
+
+body {
+    background-color: #7e4dff;
+}
+
+header {
+    background-color: #9D80FF;
+    color: #fff;
+}
+
+header a {
+    color: #fff;
+}
+
+section {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section:hover {
+    background-color: #bdaeff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #ffffff;
+}
+
+.product button {
+    background-color: #7e4dff;
+    color: #fff;
+}
+
+.product button:hover {
+    background-color: #5e15e5;
+}
+
+form {
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
